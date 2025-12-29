@@ -5,6 +5,32 @@ By proceeding, you acknowledge that the materials within this vault are propriet
 # Tokenomics
 Value backed crypto ecossytem
 
+⚠️ COPYRIGHT + ANTI‑MIRRORING NOTICE
+© Spencer Southern / Southern Star Pro Studios L.L.C. All rights reserved.
+
+All materials contained in this repository, vault, or ecosystem — including but not limited to system‑architecture frameworks, tokenization models, methodologies, diagrams, terminology, governance primitives, lifecycle logic, contradiction matrices, and all related artifacts — are proprietary intellectual property protected under U.S. and international copyright, trade secret, and IP law.
+
+No license is granted. No rights are waived.
+
+Any form of mirroring, copying, reproducing, redistributing, training on, embedding, incorporating, reverse‑engineering, or derivative use of these materials — whether manual, automated, or AI‑assisted — is strictly prohibited without prior written authorization from Southern Star Pro Studios L.L.C.
+
+Unauthorized use constitutes copyright infringement, trade secret misappropriation, and unlawful derivative creation, and may trigger immediate enforcement, including but not limited to:
+
+DMCA takedown actions
+
+copyright claims
+
+trade secret enforcement
+
+injunctive relief
+
+damages under applicable law
+
+All access is monitored and time‑stamped under Right Hand Protocol™ for evidentiary continuity.
+
+By accessing or interacting with these materials in any form, you acknowledge and agree to these restrictions. 
+
+
 ⚠️ PROPRIETARY RIGHTS NOTICE — INFRASTRUCTURE PROTECTION This repository contains proprietary infrastructure owned by Southern Star Pro Studios L.L.C. All materials are protected under applicable copyright, trade secret, and intellectual property laws.
 
 No license is granted to use any portion of this repository for any purpose without prior written authorization and licensing from Southern Star Pro Studios L.L.C.
