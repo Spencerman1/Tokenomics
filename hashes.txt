@@ -1,6 +1,6 @@
-﻿FD8EB4382EE79BFF94CC8C36E894896ADB5A546A63925EF7B7B6CD873220121C *C:\Users\Laptop\Desktop\Category Clarification Statement (Public‑Safe Version)\Category Clarification Statement (Public‑Safe Version).docx
-B9063634874808E5006B260D5F123EB46C80EFA8A70FE263C1D1A56B9719FD8F *C:\Users\Laptop\Desktop\Category Clarification Statement (Public‑Safe Version)\Category Clarification Statement (Public‑Safe Version).md
-619F459000DFBDB302C3D412D5BD026F3670DF0AA118865CACCA08395A9ACD07 *C:\Users\Laptop\Desktop\Category Clarification Statement (Public‑Safe Version)\Category Clarification Statement (Public‑Safe Version).pdf
-460472025543959314F485DCB7A5B0105395ADE6C1C2B414A30C20E76DA1E2EB *C:\Users\Laptop\Desktop\Category Clarification Statement (Public‑Safe Version)\hashes.txt
-D7CF757BC8C3D46E2E7B9FD66F27A9986C8AFA77E16613AAF76F32EAFAC02B2D *C:\Users\Laptop\Desktop\Category Clarification Statement (Public‑Safe Version)\Screenshot 2026-01-03 091410.png
-966595F6C5F1228AC1D73BD4D23230F919BD4A9EBCE3027C3A9972A49F1BC3EB *C:\Users\Laptop\Desktop\Category Clarification Statement (Public‑Safe Version)\Screenshot 2026-01-03 091455.png
+﻿E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855 *C:\Users\Laptop\Desktop\Official Status Clarification (Public‑Safe Version)\hashes.txt
+EB5322978552098C7BC0D8B88E535CA7D66A11C5CC4294EDA6308AC9DA2CEF55 *C:\Users\Laptop\Desktop\Official Status Clarification (Public‑Safe Version)\Official Status Clarification (Public‑Safe Version).docx
+35F0F1EEA53A040278C967AE9059E6DBA1E7EEC2AB212025785239BAA6DFB658 *C:\Users\Laptop\Desktop\Official Status Clarification (Public‑Safe Version)\Official Status Clarification (Public‑Safe Version).md
+8B65C11C33CE4102764D0B6FE7F6FB88C36E6D0D0F7C17E57FA58FA915AFC9D7 *C:\Users\Laptop\Desktop\Official Status Clarification (Public‑Safe Version)\Official Status Clarification (Public‑Safe Version).pdf
+18A55386DC36432D38248214F60BA4C6A1EE9FF1B61D0B6B703E74F10902D15A *C:\Users\Laptop\Desktop\Official Status Clarification (Public‑Safe Version)\Screenshot 2026-01-03 092514.png
+9EDEF6DB947619676573BBE33CCB5E305BD084762E8728380CC0AD0311F33289 *C:\Users\Laptop\Desktop\Official Status Clarification (Public‑Safe Version)\Screenshot 2026-01-03 092547.png
