@@ -1,5 +1,8 @@
-﻿E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855 *C:\Users\Laptop\Desktop\the elevation of investor‑grade standards in 2025\hashes.txt
-FEE53824B1594D94E6CD864A424FB7E948B4F73EBCD8D936925FE5C353361688 *C:\Users\Laptop\Desktop\the elevation of investor‑grade standards in 2025\Screenshot 2026-01-04 065401.png
-321293DD49927ECA4688B2A05090FEFE49073BE4754C0BBD41FAB04ABAF19920 *C:\Users\Laptop\Desktop\the elevation of investor‑grade standards in 2025\the elevation of investor‑grade standards in 2025.docx
-C0894E4935414300051F1D8700F67D0AD1B203DF04F8B2A36F563E7021CD9B7D *C:\Users\Laptop\Desktop\the elevation of investor‑grade standards in 2025\the elevation of investor‑grade standards in 2025.md
-AACD3D2AA1718172F1BCD22C171408E86D335E122EC85C01D38270B82FFA9C7E *C:\Users\Laptop\Desktop\the elevation of investor‑grade standards in 2025\the elevation of investor‑grade standards in 2025.pdf
+﻿4E88C209AB4D071C4A08A26C1FAB5E461A9A2B624A82D5C4C41D6D0F4F52311D *C:\Users\Laptop\Desktop\csv 1-5-2026\Clones in last 14 days.csv
+D8B28675AE993E572AB4CF9496B0F28A3DB57092A8F80F4201BC8B3DBB6BB66E *C:\Users\Laptop\Desktop\csv 1-5-2026\hashes.txt
+F6F5F16E3E578C5ECD1F3D86402A0F338C40CFDD4BA016A45B0B314FA3CB0F1D *C:\Users\Laptop\Desktop\csv 1-5-2026\Total views in last 14 days.csv
+E2F61B76B7D95210EBCEB8FCF3F68501866F11704FD68A4933AEBD98F8678F3E *C:\Users\Laptop\Desktop\csv 1-5-2026\Traffic Track Summary — VaultForge‑Live‑SAM‑VPS‑Continuity‑Chain (Past 14 Days).docx
+9440B61CC5B630458AB64148F31F4A2C1696EACB64D7A2DB8BD1188161A424A5 *C:\Users\Laptop\Desktop\csv 1-5-2026\Traffic Track Summary — VaultForge‑Live‑SAM‑VPS‑Continuity‑Chain (Past 14 Days).md
+AEE0A2DF58DCF77957FDDE82D8F778995168D0053A01D171F72C8DB7A0FBE384 *C:\Users\Laptop\Desktop\csv 1-5-2026\Traffic Track Summary — VaultForge‑Live‑SAM‑VPS‑Continuity‑Chain (Past 14 Days).pdf
+3AEFEC96E03B3E9415C52F33D8BE9E60F0A9A2B84E2CB096D1DEBD5088545586 *C:\Users\Laptop\Desktop\csv 1-5-2026\Unique cloners in last 14 days.csv
+F539EF896E580C7D302C09D5C06CCE65A3BC98198DBC3204EDF18A0E8C8AFB11 *C:\Users\Laptop\Desktop\csv 1-5-2026\Unique visitors in last 14 days.csv
