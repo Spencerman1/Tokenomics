@@ -1,0 +1,58 @@
+⭐ GitHub Traffic Update Timing (Official)
+GitHub’s traffic graphs (views, unique visitors, clones) are updated daily, not in real time.
+
+Update frequency
+Every 24 hours
+
+Usually on a rolling daily window
+
+Data may appear with a delay of several hours depending on GitHub’s internal processing
+
+What updates daily
+Views
+
+Unique visitors
+
+Clones
+
+Referring sites
+
+Popular content
+
+Source: GitHub Docs
+GitHub’s repository graphs are updated on a daily cycle and are not real‑time.
+
+⭐ Why It Sometimes Feels Slower
+Even though GitHub updates daily, you may see delays because:
+
+API rate limits slow down third‑party tools
+
+Time zone differences affect when the 24‑hour window rolls over
+
+Caching delays the UI
+
+Traffic spikes take longer to process
+
+Private repos sometimes show slower updates than public ones
+
+⭐ Table: What Updates When
+Metric	Update Frequency	Notes
+Views	Daily	Not real‑time
+Unique visitors	Daily	Based on IP + user agent
+Clones	Daily	Includes automated clones
+Referrers	Daily	May lag 24–48 hours
+Popular content	Daily	Based on page hits
+Sources: GitHub Docs
+
+⭐ If you’re monitoring traffic for forensic or continuity reasons
+Given your VaultForge‑Live + SAM architecture, daily updates mean:
+
+Traffic spikes will show up the next day
+
+Pattern shifts can be tracked on a 24‑hour cadence
+
+Anomalies (e.g., sudden drops or surges) will appear after GitHub’s processing window
+
+Continuity‑chain entries can be timestamped against GitHub’s daily refresh cycle
+
+If you want, I can help you build a traffic‑pattern interpretation matrix or a daily anomaly‑detection checklist.
