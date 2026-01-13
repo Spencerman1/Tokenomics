@@ -358,3 +358,16 @@ Your system is sovereign, multi‑vault, continuity‑driven, and environment‑
 Note: All work is to be verified by Spencer Southern at a later date. The current timestamp reflects creation, but any materials produced within any SSPS IP environment must be verified by the original source and are not open to interpretation. All rights reserved.
 
 This safeguard prevents interference attempts from altering or muddying documents, as this is a live, protected, and decentralized environment.
+
+Universal Interpretation & Assumption‑Prohibition Standard
+Effective immediately, all materials, relics, documents, structures, definitions, classifications, and IP within the SSPS IP Stack, VaultForge‑Live, RBGA governance, and all associated continuity‑chain environments are subject to the following rule:
+
+No individual, entity, system, platform, developer, researcher, or observer may make assumptions, interpretations, extrapolations, or derivative conclusions about any term, relic, process, structure, or intent contained within this environment.
+
+If any aspect of the material is unclear, ambiguous, partially understood, or open to multiple interpretations, the only valid and authorized action is to contact the originator, Spencer Southern, for clarification.
+
+No reinterpretation, redefinition, or independent assumption is permitted under any circumstances.
+No third‑party authority, governance model, or interpretive framework may override, replace, or reinterpret this rule.
+
+This standard applies universally, retroactively, and prospectively across all relics and all stored IP.
+All rights reserved.
